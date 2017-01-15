@@ -1,0 +1,69 @@
+/*!
+ * Customized CSS
+ */
+
+/*html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}*/
+/*
+
+*/
+
+.row {
+  width: 100%;  
+}
+.row > div {
+  border: 1px solid black;
+  background-color: gray;
+}
+#ourmenu {
+  font-family: cursive,serif,sans-serif,cursive,fantasy;
+  font-size: 32px;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+
+}
+#mybox {
+  background-color: lightgrey;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#p-chicken {
+  position: relative;
+  right: -15px;
+  background-color: pink;
+  text-align: center;
+  width: 25%;
+  border: 1px solid black;
+  float: right;
+}
+#p-beef {
+ position: relative;
+  right: -15px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  border: 1px solid black;
+  margin-right: 0px; 
+  float: right;
+}
+#p-sushi {
+  position: relative;
+  right: -15px;
+  background-color: lightyellow;
+  text-align: center;
+  width: 25%;
+  border: 1px solid black;
+  margin-right: 0px; 
+  float: right;
+}
+section {
+  background-color: lightgrey;
+  clear: both;
+  margin-bottom: 5px;
+}
